@@ -5,5 +5,5 @@
 **ｉｎｆｏ**
 + website: [hvhking.xyz](https://hvhking.xyz)
 + youtube: [RusPlane](https://www.youtube.com/c/RusPlane)
-+ discord: cutiefluffy#0187
++ discord: cutiefluffy#0923
 + twitter: [＠OGHvHer](https://twitter.com/OGHvHer)
