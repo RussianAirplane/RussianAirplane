@@ -6,4 +6,4 @@
 + steam: [id/lightblues](https://steamcommunity.com/id/lightblues)
 + youtube: [RusPlane](https://www.youtube.com/c/RusPlane)
 + discord: rus#9999
-+ twitter: [＠trustedgay](https://twitter.com/trustedgay)
++ twitter: [＠furriesdev](https://twitter.com/furriesdev)
