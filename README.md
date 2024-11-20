@@ -1,8 +1,10 @@
 ![alt text][logo]
 
-[logo]: https://cdn.discordapp.com/attachments/828892058731151371/860793318656573440/cool_dudes.png "art by: @angiewolfartist"
+[logo]: https://rusplane.dev/assets/img/avatar.png "femboy bussy inspector"
 
 **ｉｎｆｏ**
++ website: [rusplane.dev](https://rusplane.dev)
++ e-mail: [rusplane@cheating.solutions](mailto:rusplane@cheating.solutions)
 + steam: [id/lightblues](https://steamcommunity.com/id/lightblues)
 + youtube: [rusplane](https://www.youtube.com/c/rusplane)
 + discord: rusplane
